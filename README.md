@@ -190,3 +190,7 @@ CASE [City]
 END
 ```
 ![image](https://github.com/user-attachments/assets/47dd96e2-16a1-4df5-842c-f17dc32f3494)
+
+<img width="1190" alt="image" src="https://github.com/user-attachments/assets/c8bdbd90-6831-43a9-a0bc-d3bf85957f04" />
+
+<img width="1167" alt="image" src="https://github.com/user-attachments/assets/c60a5019-926b-41d9-8f39-5a9a38d0f45e" />
